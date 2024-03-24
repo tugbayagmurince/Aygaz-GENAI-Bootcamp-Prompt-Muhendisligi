@@ -1,0 +1,33 @@
+Website kodları:
+prompt 1:
+Bir website tasarlamanı istiyorum.Bu websitesi mobile uyumlu ve duyarlı olucak.HTML,CSS ve Javascript kodlarını ayrı çıktılar halinde vermeni istiyorum.Kodlarda açıklama satırı da olmasın.Website  tasarlanan bir oyundaki karakterlerin fotoğraflarının olduğu bir galeri websitesi olucak.Sitede bu oyundaki karakterlerin görselleri ve adları olacak.Semantik etiketleri kullanmanı istiyorum.
+prompt 2:
+Resimlerin altına karakterlerin hakkında açıklamalar girmek istiyorum.Resmin üstüne fare imleci gelince açıklama gözükecek.
+prompt 3:
+Logo da eklemeni istiyorum.Logo başlığın solunda kalsın.
+
+Metin promptları:
+prompt 1:
+Fantastik bir savaş oyunu tasarlamak istiyorum.Bu oyun için ingilizce bir isim önerir misin?
+prompt 2:
+Bu oyunu tanıtan bir yazı yazar mısın?
+prompt 3:
+Oyundaki kızıl saçlı cadıyı tanıtan bir yazı yaz.
+prompt 4:
+Oyundaki avcıyı tanıtan bir yazı yaz.
+prompt 5:
+Oyundaki periyi tanıtan bir yazı yaz.
+prompt 6:
+Oyundaki siyah saçlı büyücüyü tanıtan bir yazı yaz.
+
+Görsel promptları:
+prompt 1:
+Oyun için logo tasarla.
+prompt 2:
+Kızıl saçlı,mavi gözlü bir fantastik savaş oyunu karakteri tasarla.Karakter cadı olsun ve gerçekçi gözüksün.
+prompt 3:
+sarı saçlı kahverengi gözlü bir avcı tasarla.
+prompt 4:
+pembe saçlı da bir karakter tasarlamanı istiyorum gerçekçi olsun.
+prompt 5:
+siyah saçlı erkek bir büyücü tasarla.kahverengi gözleri olsun.
